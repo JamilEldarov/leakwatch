@@ -17,3 +17,5 @@ __pycache__/
 .idea/
 private-data/
 raw-evidence/
+
+logs/
